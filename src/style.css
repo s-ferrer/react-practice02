@@ -16,3 +16,15 @@ nav {
 .nav--logo {
   max-width: 100px;
 }
+
+.container {
+  padding: 56px;
+}
+
+img {
+  width: 450px;
+}
+
+p {
+  max-width: 300px;
+}
