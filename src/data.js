@@ -1,5 +1,4 @@
-/* eslint import/no-anonymous-default-export: [2, {"allowArray": true}] */
-export default [
+const dataInfo = [
   {
     id: 1,
     title: "Life Lessons with Katie Zaferes",
@@ -34,7 +33,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "person-home-0.jpg",
+    coverImg: "person-home-03.jpg",
     stats: {
       rating: 4.8,
       reviewCount: 2,
@@ -43,3 +42,5 @@ export default [
     openSpots: 3,
   },
 ];
+
+export default dataInfo;
